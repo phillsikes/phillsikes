@@ -1,9 +1,11 @@
 ## Hi there, you've reached Phill.
-✉️ <phillsikes@proton.me>  
+
 The safest network is a network with nothing attached.
 
 Currently interested in Linux System Administration,\
 Python Development, and Hardware. 
+
+✉️ <phillsikes@proton.me>  
 
 
 <!--
