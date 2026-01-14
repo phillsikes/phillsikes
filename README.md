@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, you've reached Phill.
+✉️ <phillsikes@proton.me>  
+The safest network is a network with nothing attached.
+
+Currently interested in Linux System Administration,\
+Python Development, and Hardware. 
+
 
 <!--
 **phillsikes/phillsikes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
