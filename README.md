@@ -3,7 +3,7 @@
 The safest network is a network with nothing attached.
 
 Currently interested in Linux System Administration,\
-Python Development, and Hardware. 
+Python Development, and Big Hardware. 
 
 ✉️ <phillsikes@proton.me>  
 
