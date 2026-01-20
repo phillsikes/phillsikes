@@ -1,9 +1,12 @@
 ## Hi there, you've reached Phill.
-
-The safest network is a network with nothing attached.
-
-Currently interested in Linux System Administration,\
-Python Development, and Big Hardware. 
+----
+### The safest network is a network with nothing attached.
+----
+Currently interested in:  
+- The future of AI/ML
+- Python Development  
+- Linux Systems  
+- and Big Hardware 
 
 ✉️ <phillsikes@proton.me>  
 
